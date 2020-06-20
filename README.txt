@@ -1,5 +1,3 @@
-Welcome to our Traffic Sign Recognition project.
-
 To begin, go to the following link: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign and 
 download the dataset used in the project. It is a custom dataset with 43 classes in Train folder.
  
