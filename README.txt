@@ -1,3 +1,6 @@
+The purpose of this project is to recognize traffic signs from around 50,000 images and categorize them into 43 classes, such as speed limit signs or stops signs.
+This project is implemented with four deep neural network models, including two famous models (untrained) and two customized models.
+
 To begin, go to the following link: https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign and 
 download the dataset used in the project. It is a custom dataset with 43 classes in Train folder.
  
